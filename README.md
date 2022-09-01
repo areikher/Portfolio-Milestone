@@ -4,7 +4,7 @@ Welcome to my Portfolio Milestone. My name is Alison Reikher. My SUID number is 
 This portfolio contains the following:
 1. My current professional resume
 2. Folders for each of my projects
-3. My report outlining how each project relates to the learning goals
+3. My report describing each project and how they relate to the learning goals
 4. Slide deck of the presentation
 
 Here is a link to part 1 of my portfolio presention video:
