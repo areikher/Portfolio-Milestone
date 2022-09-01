@@ -5,7 +5,12 @@ This portfolio contains the following:
 1. My current professional resume
 2. Folders for each of my projects
 3. My report outlining how each project relates to the learning goals
-4. Video file of my presentation
-5. Slide deck of the presentation
+4. Slide deck of the presentation
+
+Here is a link to part 1 of my portfolio presention video:
+https://youtu.be/V4EMJvXfXFk
+
+Here is a link to part 2 of my portfolio presention video:
+https://youtu.be/KNTGa8wQR04
 
 I appreciate you taking the time to look at my portfolio.
